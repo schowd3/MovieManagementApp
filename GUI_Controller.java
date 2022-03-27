@@ -6,7 +6,7 @@ import java.sql.*; //JDBC packages
 
 /**
  * This class control the GUI of the program
- * @author Siam A-mer Chowdhury, Steve Tran
+ * @author Siam A-mer Chowdhury
  */
 public class GUI_Controller {
 
