@@ -1,2 +1,2 @@
 # NetflixDMBSProtoype
-A CL DBMS Netflix prototype that lets users interact with the program without writing any sql commands.
+A CL DBMS Netflix prototype make CRUD(Create Read Update & Delete)  operations to the data.
