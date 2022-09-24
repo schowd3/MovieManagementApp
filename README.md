@@ -1,4 +1,4 @@
-# MovieManagement
+# Movie Management
 A CL DBMS Netflix prototype make CRUD(Create Read Update & Delete) operations to the data.
 
 Different classes/objects are the entites that you can interact with.
