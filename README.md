@@ -1,4 +1,4 @@
-# Movie Management - Background
+# Movie Management App - Background
 A Movie management application that does CRUD(Create Read Update & Delete) operations to the data implemented using JDBC and Oracle databases.
 
 Different classes/objects represents the entites that a user can modify.
