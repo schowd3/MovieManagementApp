@@ -40,3 +40,13 @@ Database Schema: Ensure the necessary database tables and schema are set up by r
           The application uses a GUI controller to manage interactions with the database. Before running the GUI:
           Ensure that the database connection properties are correctly set in the GuiController.java file.
           Update the login credentials and connection strings as per your database configuration.
+3. Running the Application
+   After configuring the application, follow these steps to run the app:
+
+          Build the Project:
+          
+          Use your preferred build tool (Maven/Gradle) to compile and package the application.
+          Run the App:
+          
+          Execute the main class, which initializes the GUI controller.
+          The main window will provide options for performing CRUD operations on the movie database.
